@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: EEG Emotion Recognition using SEED-IV
+message: If you use this work, please cite it using the metadata below.
+authors:
+  - family-names: Kumar
+    given-names: Vikram Prem
+date-released: 2026
+repository-code: https://github.com/vicky-bhai/Human-Emotion-Recognition-from-EEG-brain-Signals-using-ML
+
+preferred-citation:
+  type: conference-paper
+  title: Human Emotion Recognition from EEG-brain Signals using Enhanced Machine Learning Method
+  authors:
+    - family-names: Ghous
+      given-names: Ghulam
+    - family-names: Najam
+      given-names: Shaheryar
+    - family-names: Jalal
+      given-names: Ahmad
+  year: 2025
+  conference:
+    name: International Conference on Advancements in Computational Sciences (ICACS)
+  doi: 10.1109/ICACS64902.2025.10937822

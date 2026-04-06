@@ -38,7 +38,7 @@ pip install kaggle numpy scipy matplotlib seaborn scikit-learn
 1. Open the notebook:
 
 ```
-SEED_IV_Implementation.ipynb
+EEG using SVM + AAFST.ipynb
 ```
 
 2. Set the dataset path:
